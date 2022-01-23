@@ -1,0 +1,14 @@
+{
+  "name": "indecision_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nikita Bhatt",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.16.10",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-react": "^6.24.1"
+  }
+}
